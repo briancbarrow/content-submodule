@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Tabletop Curling Scorecard",
+    "link": "https://tabletop-curling.firebaseapp.com/",
+    "tech": ["Vue.js", "Sass"],
+    "github": "https://github.com/briancbarrow/curling-vue",
+    "image": "tabletop-curling.png",
+    "slug": "curling"
+  },
+  {
+    "name": "FreeCodeCamp - SLC Directory",
+    "link": "https://directory-fcc-slc.firebaseapp.com/",
+    "tech": ["React", "Node.js", "Mongoose", "Express"],
+    "github": "https://github.com/briancbarrow/fcc-directory",
+    "github_server": "https://github.com/briancbarrow/fcc-directory-server",
+    "image": "fcc-directory.PNG",
+    "slug": "directory"
+  },
+  {
+    "name": "Meetup Finder",
+    "link": "https://meetup-finder.firebaseapp.com/",
+    "tech": ["AJAX", "CSS", "JavaScript", "HTML"],
+    "github": "https://github.com/briancbarrow/meetup-finder",
+    "image": "meetupFinder1.png",
+    "slug": "meetup-finder"
+  },
+  {
+    "name": "NBA Salary Per Minute",
+    "link": "https://fast-dusk-74105.herokuapp.com/",
+    "tech": ["D3.js", "Node.js", "MongoDB", "Express"],
+    "github": "https://github.com/briancbarrow/node-capstone",
+    "image": "bballdata.PNG",
+    "slug": "nba-salary"
+  },
+  {
+    "name": "D3 Bar Chart",
+    "link": "https://briancbarrow.github.io/d3-bar-chart/",
+    "tech": ["D3.js", "CSS", "JavaScript", "HTML"],
+    "github": "https://github.com/briancbarrow/d3-bar-chart",
+    "image": "d3-chart.PNG",
+    "slug": "d3-chart"
+  },
+  {
+    "name": "Simon Game",
+    "link": "https://briancbarrow.github.io/simon-game/",
+    "tech": ["JavaScript", "CSS", "HTML"],
+    "github": "https://github.com/briancbarrow/simon-game",
+    "image": "Simon.PNG",
+    "slug": "simon"
+  },
+  {
+    "name": "Pomodoro Timer",
+    "link": "https://briancbarrow.github.io/pomodoro/",
+    "tech": ["JavaScript", "CSS", "HTML"],
+    "github": "https://github.com/briancbarrow/pomodoro",
+    "image": "Pomodoro.PNG",
+    "slug": "pomodoro"
+  }
+]
